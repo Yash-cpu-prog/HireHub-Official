@@ -2,7 +2,7 @@
 
 A **modern full-stack Job Portal** built with the **MERN stack**, designed to connect **students/job seekers** with **recruiters/Employer**. This platform offers an intuitive, responsive, and animated UI for browsing jobs, posting opportunities, and managing applications seamlessly.
 
----
+---live link: [Click here](https://client-52j19lyzk-yash-kalamkars-projects.vercel.app)
 
 ## 🌟 Features
 
